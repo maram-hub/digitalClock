@@ -1,0 +1,13 @@
+* create a digital clock using HTML, CSS and JS as in the included screen shot.
+* the time must be updated every second.
+* the font family used is Orbitron.
+* use the following line at the top of the CSS file to import the Orbitron font family:
+
+@import url('https://fonts.googleapis.com/css?family=Orbitron');
+
+* use the following styles for the time:
+
+	font-family: 'Orbitron', sans-serif;
+  	color: #66ff99;
+  	font-size: 56px;
+
